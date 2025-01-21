@@ -1,12 +1,12 @@
-# Clock <img alt="Logo" src="/icon.png" align="right" height="50">
+# SolarDatePicker <img alt="Logo" src="/icon.png" align="right" height="50">
 
 This project was crafted while exploring SwiftUI animations, focusing on the use of .animation to create smooth and dynamic UI interactions.
 
-This project showcases a SwiftUI animation where items spread around a circle and gather back to the center.
+The date selection in this project is based on the Earth's orbit around the Sun.
 
 ## Inspiration 💡
 
-The main idea of this source code based on [Processing Animation](https://dribbble.com/shots/14420202-Processing-Animation) created by [Oleg Frolov](https://dribbble.com/Volorf).
+The main idea of this source code based on [Useful Datepicker](https://dribbble.com/shots/18236210-Useful-Datepicker) created by [Aaron Iker](https://dribbble.com/ai).
 
 ## Screenshots 🌃
 
@@ -22,7 +22,7 @@ The main idea of this source code based on [Processing Animation](https://dribbb
 1. Clone the repository:
 
   ``` bash
-    git clone https://github.com/helloItsHEssam/Clock.git
+    git clone https://github.com/helloItsHEssam/SolarDatePicker.git
   ```
 
 ###  Contributing 🤝

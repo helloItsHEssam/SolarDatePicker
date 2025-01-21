@@ -2,7 +2,7 @@
 
 This project was crafted while exploring SwiftUI animations, focusing on the use of .animation to create smooth and dynamic UI interactions.
 
-The date selection in this project is based on the Earth's orbit around the Sun.
+The date picker in this project is based on the Earth's orbit around the Sun.
 
 ## Inspiration 💡
 
